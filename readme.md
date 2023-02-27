@@ -1,2 +1,2 @@
 # hi, i'm CMFdev
-Check out my website at http://cmfdev.cf/
+Check out my website at https://cmfdev.one
